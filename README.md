@@ -2,6 +2,32 @@
 Text2Img-Magic is a powerful and user-friendly text-to-image generator web application. With Text2Img-Magic, users can enter any text, and the application will transform it into a visually appealing and creative image representation.
 
 
+# How To Use
+# Text to Image Generator
+
+## Description
+
+Text to Image Generator is a simple web application that allows users to convert text input into images using a third-party API. Users can enter any text, and the application will generate an image representation of the text.
+
+## Features
+
+- Enter text and generate an image based on the input.
+- User-friendly interface.
+- Responsive design for different screen sizes.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Third-party API (Eden AI)
+
+## Installation
+
+1. Clone the repository:
+
+
+
 Features:
 Enter any text and generate stunning images instantly.
 Choose from a variety of fonts and styles to personalize the images.
