@@ -45,11 +45,6 @@ https://github.com/priyanksukhadiya/Text2Img-Magic.git
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
-
-## Acknowledgments
-
-Special thanks to [mention any contributors or resources here if applicable]
-
 ## Contact
 
 If you have any questions or want to reach out, feel free to contact me at priyanksukhadiya2001@gmail.com
