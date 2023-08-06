@@ -33,7 +33,7 @@ https://github.com/priyanksukhadiya/Text2Img-Magic.git
 2. Get the API Key From The Account
 3. Paste it in the eden_api.php File.
 
-3. Open the index.php file in your web browser.
+4. Open the index.php file in your web browser.
 
 ## Usage
 
