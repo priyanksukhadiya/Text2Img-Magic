@@ -3,7 +3,6 @@ Text2Img-Magic is a powerful and user-friendly text-to-image generator web appli
 
 
 # How To Use
-# Text to Image Generator
 
 ## Description
 
@@ -25,29 +24,35 @@ Text to Image Generator is a simple web application that allows users to convert
 ## Installation
 
 1. Clone the repository:
+https://github.com/priyanksukhadiya/Text2Img-Magic.git
+
+2. Open eden_api.php file 
+## Usage
+
+1. Go to https://app.edenai.run/user/login and SignUp.
+2. Get the API Key From The Account
+3. Paste it in the eden_api.php File.
+
+3. Open the index.php file in your web browser.
+
+## Usage
+
+1. Enter your desired text in the input field.
+2. Click the "Generate Image" button.
+3. The image representation of your text will be displayed below.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
 
+## Acknowledgments
 
-Features:
-Enter any text and generate stunning images instantly.
-Choose from a variety of fonts and styles to personalize the images.
-Responsive design for seamless user experience on different devices.
-Easily share the generated images on social media platforms.
-How to Use:
-Visit the Text2Img-Magic website.
-Enter your desired text in the input field.
-Select your preferred font and style options.
-Click the "Generate Image" button.
-Marvel at the magical transformation of your text into a captivating image!
-Technologies Used:
-HTML
-CSS
-JavaScript
-Eden AI
-Contributions:
-Contributions to Text2Img-Magic are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Special thanks to [mention any contributors or resources here if applicable]
 
-Contact:
-For any inquiries or feedback, please contact Priyank Sukhadiya at priyanksukhadiya2001@gmail.com
+## Contact
+
+If you have any questions or want to reach out, feel free to contact me at priyanksukhadiya2001@gmail.com
+
 
 Let me know if there's anything else you'd like to add or modify in the description! Happy coding!
